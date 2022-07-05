@@ -12,6 +12,7 @@
 - @types/node
 - @typescript-eslint/eslint-plugin
 - @typescript-eslint/parser
+- nodemon
 
 # Config files included:
 
