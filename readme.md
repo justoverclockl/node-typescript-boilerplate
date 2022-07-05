@@ -18,3 +18,4 @@
 
 - Eslint configuration file
 - tsconfig.json
+- nodemon configuration file
