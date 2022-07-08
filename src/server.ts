@@ -1,3 +1,6 @@
-const name: string = "Marco"
+import express from 'express'
+import dotenv from 'dotenv'
 
-console.log(name)
+dotenv.config()
+
+const app = express()
