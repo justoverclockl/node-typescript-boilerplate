@@ -13,6 +13,8 @@
 - @typescript-eslint/eslint-plugin
 - @typescript-eslint/parser
 - nodemon
+- @Prisma/client ORM
+- prisma CLI
 
 # Config files included:
 
